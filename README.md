@@ -4,69 +4,14 @@
 
 
 
-
 ![image](https://raw.githubusercontent.com/ZirtysPerzys/DRGL-X/master/12164.png)  
 
-# {DRAGONGLASS} kills white walkers....
-----------------------------
-
-It is more valuable to us now.. than gold.
-
-We need to find it-
-
-We need to MINE it-
-
-We need to MAKE weapons from it
-
-
-The ONLY thing now that stands between us.. 
-and the Army of the dead - 
-Is one last and Final season..
-        Season  8 
-     GAME OF THRONES.
-
-We shall begin trading of {DRGL} with every man, woman, and child- whilst crowning only the most rightful of Exchange(s).. as our 8th and Final Season arrives.
-_________________________________________________
-
-Every House shall be called upon to join in alliance. We must fight together- alongside one another, to defeat our common enemy.  
-Any contributions to all future {DRÆGONGLASS} developments are not only welcomed, but encouraged. There is much, still, that remains to be done...For the Night is Dark, and Full of Terrors.
-
-This process of mining , however..
-must begin...now.
-__________________________________________________________________
-
-CryptoNight-Classic (Proof-of-Work) mining algorithm.
-
-Block Time - 81 secs
-
-Block Reward - begin 30 DRGL and ever so slightly decreasing.. (smooth emission curve)
-
-Approx 80% of all {DRGL} is set to be mined by final season debut
-
-8,000,008 max supply | 8 Million 8 | precisely: 8000008.8000008 DRGL
-__________________________________________________________________________
-
-
-THERE  IS  ONLY  ONE  WAR  THAT  MATTERS..
-
-The Great War.
-
-
-
-And it is here.
-________________________________________________________________________________________________________
-
-        {DRÆGONGLASS}  Anonymous Encrypted Digital Currency  ....that kills white walkers.
-
-Built upon CryptoNote technologies. Read the CryptoNote white paper at https://cryptonote.org/whitepaper.pdf
-
-________________________________________________________________________________________________________________
-
-
+# {DRAGONGLASS} 
+## Anonymous Encrypted Digital Currency  ....that kills white walkers.
 _______________________________________________________________________________________________________________
-## Building {Dragonglass} 
+ 
 
-### On *nix
+#### Building On *nix
 
 1. Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55.
 
@@ -77,33 +22,23 @@ You may download them from:
 * http://www.boost.org/
 
 
-
 *** Alternatively, it may be possible to install them using a package manager by
-executing the following command.     {Tested using Ubuntu 16.04}
+executing the following command.
  ```
  sudo apt-get install build-essential git cmake libboost1.55-all-dev
 ```
 
-2. Clone {dragonglass} repository
-
-*** Execute the following command to copy a desired repository
+2. Clone DRGL repository
 ```
 git clone https://github.com/ZirtysPerzys/DRGL
 ```
-
-
 3. Open folder with copied repository
 
-*** Execute the following command to get into the directory with copied repository
-
 `cd DRGL`
-
-
 
 4. Building (Compiling)
 
 *** Execute the following command to compile
-
 `
 make -j4  
 `
@@ -111,28 +46,21 @@ make -j4
 The resulting executables can be found in build/release/src.
 
 
-5. Starting {dragonglass} daemon
-*** Execute the following command to navigate to resulting executables
-
+5. Starting DRGL daemon
 `
 cd DRGL/build/release/src 
 `
 
-
-*** Start daemon, typing the following command-
-
+*** Start daemon, by typing the following command-
 `
 ./dragonglassd 
 `
-
 for a list of commands in daemon type  --help
 
 
-
-
 After you are have very success,
-see {DRAGONGLASS GUI Wallet} 
-https://github.com/ZirtysPerzys/Dragonglasswallet
+also see {DRGL GUI Wallet} 
+https://github.com/ZirtysPerzys/DRGL-wallet
 
 
 _________________________________________________________
@@ -186,7 +114,7 @@ sudo apt-get install build-essential git cmake libboost-all-dev
 git clone https://github.com/ZirtysPerzys/DRGL.git
 
 4: Build the files
-cd dragonglass
+cd DRGL
 make
 
 5: Sync blocks
@@ -196,9 +124,9 @@ cd build/release/src/
 !!keep this terminal running and open new terminal for next step!!
 
 6: Start simplewallet and create wallet (navigate to the folder where you created the wallet)
-~dragonglass/build/release/src$ ./simplewallet
+~DRGL/build/release/src$ ./simplewallet
 or
-cd dragonglass/build/release/src
+cd DRGL/build/release/src
 ./simplewallet
 
 set up wallet name & password
@@ -213,14 +141,6 @@ You'll find your folders and wallet in
 C:\Users\YOURUSERNAME\AppData\Local\lxss\home
 
 **************************************************
-### On Mac
-------------
-
-**Bounty of 15k DRGL**
-----------
-for Mac client/GUI build release
-
--Reserved bounty funded by {DRGL} community-
 
 
 ### Building for Android on Linux
