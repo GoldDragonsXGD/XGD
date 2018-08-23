@@ -1,7 +1,13 @@
-#### Master Build Status
+##### Master Build Status
+
 [![Build Status](https://travis-ci.org/ZirtysPerzys/DRGL.svg?branch=master)](https://travis-ci.org/ZirtysPerzys/DRGL)
 
-  {DRGL} kills white walkers....
+
+
+
+![image](https://raw.githubusercontent.com/ZirtysPerzys/DRGL-X/master/12164.png)  
+
+# {DRAGONGLASS} kills white walkers....
 ----------------------------
 
 It is more valuable to us now.. than gold.
@@ -75,9 +81,8 @@ You may download them from:
 *** Alternatively, it may be possible to install them using a package manager by
 executing the following command.     {Tested using Ubuntu 16.04}
  ```
- sudo apt-get install build-essential git cmake libboost-all-dev
+ sudo apt-get install build-essential git cmake libboost1.55-all-dev
 ```
-_____________________________________________________________^ thanks- mauncoin
 
 2. Clone {dragonglass} repository
 
