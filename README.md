@@ -1,4 +1,5 @@
-
+#### Master Build Status
+[![Build Status](https://travis-ci.org/ZirtysPerzys/DRGL.svg?branch=master)](https://travis-ci.org/ZirtysPerzys/DRGL)
 
   {DRGL} kills white walkers....
 ----------------------------
