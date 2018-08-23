@@ -12,7 +12,6 @@ matrix:
         - ubuntu-toolchain-r-test
     env:
     - MATRIX_EVAL="CC=gcc && CXX=g++
-  - os: osx
 before_install: sudo apt-get install build-essential git cmake libboost1.55-all-dev
 install:
-script: sudo make -j2
+script: sudo make -j4
