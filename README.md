@@ -2,13 +2,12 @@
 
 [![Build Status](https://travis-ci.org/ZirtysPerzys/DRGL.svg?branch=master)](https://travis-ci.org/ZirtysPerzys/DRGL)
 
-
+_______________________________________________________________________________________________________________
 
 ![image](https://raw.githubusercontent.com/ZirtysPerzys/DRGL-X/master/12164.png)  
 
 # {DRAGONGLASS} 
 ## Anonymous Encrypted Digital Currency  ....that kills white walkers.
-_______________________________________________________________________________________________________________
  
 
 #### Building On *nix
